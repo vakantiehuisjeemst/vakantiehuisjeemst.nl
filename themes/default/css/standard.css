@@ -664,10 +664,11 @@ height: 240px;
   color: #eee;
   font-size: 6vw;
   line-height: 120px;
-  font-family: times;
+  font-family: 'FolioLight', sans-serif;
   font-weight: 300;
   text-rendering: optimizeLegibility;
-  text-shadow: 0 1px 0 #999, 0 2px 0 #888, 0 3px 0 #777, 0 4px 0 #666, 0 5px 0 #222, 0 6px 0 #444, 0 2px 0 #333, 0 1px 12px #111;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-top: 0;
 }
 
 #header p {
